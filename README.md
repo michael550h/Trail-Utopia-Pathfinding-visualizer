@@ -11,6 +11,7 @@
  6. Dept First Search(un-weighted)
 
 Here is the link below for its working process:
-https://github.com/michael550h/maikel_trail_utopia
+https://github.com/michael550h/Trail-Utopia-Pathfinding-visualizer/edit/main/README.md
+
 
  
