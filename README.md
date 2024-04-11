@@ -1,5 +1,4 @@
 # Trail-Utopia
-
 Optimal path between 'n' nodes containing obstacels
 
  
@@ -11,6 +10,6 @@ Optimal path between 'n' nodes containing obstacels
  5. Breadth First Search(un-weighted)
  6. Dept First Search(un-weighted)
 
-Here are the link below for its working process:
+Here is the link below for its working process:
 
  
