@@ -2,7 +2,7 @@
 Optimal path between 'n' nodes containing obstacels
 
  
- "It's a pathfinding visulizer that contains following alogrithms such as :"
+ It's a pathfinding visulizer that contains following alogrithms such as :
  1. Dijkstra Algorithm(weighted)
  2. A*(weighted)
  3. Greedy Best First search(weighted)
