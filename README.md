@@ -1,2 +1,2 @@
 # Trail-Utopia
-# Optimal path between 'n' nodes containing obstacels
+Optimal path between 'n' nodes containing obstacels
